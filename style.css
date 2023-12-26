@@ -1,0 +1,29 @@
+table{
+    background-image: url(acdc.jpg);
+    background-size: cover;
+    text-shadow: inset;
+    margin: 100px;
+    margin-right: auto;
+    margin-left: auto;  
+}
+body{
+    inline-size: none;
+    text-align: center;
+    background-color: rgb(2, 3, 3);
+}
+
+td{
+    padding: 10px;
+    border: solid rgb(10, 0, 0) 2px;
+}
+li{
+    color: aqua;
+    
+}
+td{
+    color: aqua;
+}
+details{
+    color: rgb(216, 14, 14);
+    font-size: 30px;
+}
